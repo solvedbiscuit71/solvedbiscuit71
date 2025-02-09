@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 👨‍💻 I'm Praveen Perumal, a computer enthusiast studying at Amrita Vishwa Vidyapeetham, Chennai.
-- 🎓 My academic journey has been a blast so far, ranking #1 in my class thrice with a GPA of 9.63
+- 🎓 My academic journey has been a blast so far, ranked #1 four times continously with a CGPA of 9.58
 - 🔬 I'm currently interested in AI/ML algorithms.
 - 🛠️ I love building things! Check out my various web development and fullstack projects.
 - 😎 I rock an 80 WPM touch typing speed and I use Vim btw.
